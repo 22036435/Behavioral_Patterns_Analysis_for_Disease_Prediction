@@ -1,0 +1,335 @@
+﻿I am currently employed at least part-time,I identify as having a mental illness,Education,I have my own computer separate from a smart phone,I have been hospitalized before for my mental illness,How many days were you hospitalized for your mental illness,I am legally disabled,I have my regular access to the internet,I live with my parents,I have a gap in my resume,Total length of any gaps in my resume in months.,Annual income (including any social welfare programs) in USD,I am unemployed,I read outside of work and school,Annual income from social welfare programs,I receive food stamps,I am on section 8 housing,How many times were you hospitalized for your mental illness,Lack of concentration,Anxiety,Depression,Obsessive thinking,Mood swings,Panic attacks,Compulsive behavior,Tiredness,Age,Gender,Household Income,Region,Device Type,individual_id
+0,0,High School or GED,0,0,0,0,1,0,1,24,35,1,1,0,0,0,0,1,1,1,1,0,1,0,0,30-44,Male,"$25,000-$49,999",Mountain,Android Phone / Tablet,1
+1,1,Some Phd,1,0,0,0,1,0,0,1,22,0,1,0,0,0,0,1,1,1,0,0,1,0,1,18-29,Male,"$50,000-$74,999",East South Central,MacOS Desktop / Laptop,2
+1,0,Completed Undergraduate,1,0,0,0,1,0,0,0,100,0,1,0,0,0,0,0,0,0,0,0,0,0,0,30-44,Male,"$150,000-$174,999",Pacific,MacOS Desktop / Laptop,3
+0,0,Some Undergraduate,1,0,,0,1,1,1,11,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,30-44,Male,"$25,000-$49,999",New England,Windows Desktop / Laptop,4
+1,1,Completed Undergraduate,1,1,35,1,1,0,1,33,32,0,1,30,0,0,4,1,1,1,1,1,1,1,1,30-44,Male,"$25,000-$49,999",East North Central,iOS Phone / Tablet,5
+1,0,High School or GED,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,30-44,Male,"$0-$9,999",South Atlantic,Android Phone / Tablet,6
+1,0,Some Undergraduate,1,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,18-29,Male,"$100,000-$124,999",Middle Atlantic,Windows Desktop / Laptop,7
+1,1,Some Undergraduate,1,0,0,0,1,1,0,0,11,0,1,0,0,0,0,1,1,1,0,0,1,1,1,18-29,Male,"$100,000-$124,999",Middle Atlantic,Windows Desktop / Laptop,8
+1,0,Completed Undergraduate,1,0,0,0,1,0,0,0,73,0,1,0,0,0,0,1,1,1,0,0,0,0,1,30-44,Male,"$50,000-$74,999",South Atlantic,iOS Phone / Tablet,9
+1,1,Some Masters,1,0,0,0,1,0,0,0,12,0,1,0,0,0,0,0,1,1,0,0,0,0,1,30-44,Male,"$125,000-$149,999",South Atlantic,Android Phone / Tablet,10
+0,0,Completed Undergraduate,1,0,,0,1,0,1,47,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,30-44,Male,"$0-$9,999",Mountain,Windows Desktop / Laptop,11
+1,1,Completed Undergraduate,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,1,0,18-29,Male,Prefer not to answer,Pacific,iOS Phone / Tablet,12
+1,1,Completed Undergraduate,1,0,0,0,1,0,1,12,50,0,1,0,0,0,0,0,1,1,0,0,0,0,0,30-44,Male,"$50,000-$74,999",Middle Atlantic,Windows Desktop / Laptop,13
+1,0,Completed Masters,1,0,0,0,1,0,1,6,25,0,1,0,0,0,0,0,0,0,0,0,0,0,0,30-44,Male,"$25,000-$49,999",Pacific,Windows Desktop / Laptop,14
+1,1,High School or GED,1,0,0,0,1,0,0,0,59,0,1,0,0,0,0,0,0,1,0,0,0,0,0,30-44,Male,"$50,000-$74,999",New England,iOS Phone / Tablet,15
+1,0,Completed Undergraduate,1,0,,0,1,0,0,0,100,0,1,0,0,0,0,0,0,0,0,0,0,0,1,30-44,Male,"$150,000-$174,999",South Atlantic,iOS Phone / Tablet,16
+0,1,Some Masters,1,1,65,1,1,1,1,44,48,1,0,47,0,0,43,0,0,1,1,0,1,0,0,30-44,Male,"$10,000-$24,999",East South Central,Android Phone / Tablet,17
+0,0,Some Undergraduate,1,0,0,0,1,0,0,0,16,0,0,0,0,0,0,0,0,0,0,1,0,0,0,18-29,Male,"$0-$9,999",New England,Windows Desktop / Laptop,18
+1,1,Some Masters,1,0,0,0,1,0,0,0,55,0,1,0,0,0,0,0,1,0,0,0,0,0,1,30-44,Male,"$50,000-$74,999",Mountain,Windows Desktop / Laptop,19
+1,0,Completed Phd,0,0,,0,1,0,0,21,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,30-44,Male,"$0-$9,999",Pacific,Android Phone / Tablet,20
+1,1,Some Undergraduate,1,0,0,0,0,0,0,0,100,0,1,0,0,0,0,1,1,1,1,1,0,0,1,30-44,Male,"$100,000-$124,999",Pacific,iOS Phone / Tablet,21
+1,1,Completed Masters,0,0,20,0,0,0,0,32,24,0,0,66,0,0,19,0,0,0,0,1,0,0,0,18-29,Male,"$25,000-$49,999",Pacific,Android Phone / Tablet,22
+1,0,Completed Undergraduate,1,0,0,0,1,0,0,0,43,0,1,0,0,0,0,1,1,0,0,0,1,0,0,30-44,Male,"$75,000-$99,999",South Atlantic,Android Phone / Tablet,23
+1,0,Some Undergraduate,1,0,0,0,1,0,1,15,38,0,1,0,0,0,0,0,0,0,0,0,0,0,1,30-44,Male,"$25,000-$49,999",West South Central,Windows Desktop / Laptop,24
+1,0,Some Masters,1,0,0,0,1,0,1,18,75,0,1,1,0,0,0,0,0,0,0,0,0,0,1,30-44,Male,"$125,000-$149,999",Pacific,Windows Desktop / Laptop,25
+1,0,Completed Masters,1,0,0,0,1,0,0,0,5,0,1,0,0,0,0,0,0,0,0,0,0,0,0,30-44,Male,"$25,000-$49,999",West North Central,MacOS Desktop / Laptop,26
+1,0,High School or GED,1,0,0,0,1,0,0,0,49,0,1,0,0,0,0,0,1,0,0,0,0,0,0,30-44,Male,"$50,000-$74,999",South Atlantic,Android Phone / Tablet,27
+1,0,Some Undergraduate,1,0,,0,1,0,0,0,45,0,1,0,0,0,0,0,0,0,0,0,0,0,1,30-44,Male,"$75,000-$99,999",New England,Android Phone / Tablet,28
+0,0,Some Undergraduate,1,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,18-29,Male,Prefer not to answer,East North Central,Windows Desktop / Laptop,29
+1,0,Completed Masters,0,0,,0,1,0,0,0,40,0,1,0,0,0,0,0,0,0,0,0,0,0,0,30-44,Male,"$100,000-$124,999",South Atlantic,iOS Phone / Tablet,30
+0,0,Some Undergraduate,1,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,18-29,Male,"$150,000-$174,999",Mountain,Windows Desktop / Laptop,31
+1,0,Completed Undergraduate,1,0,,0,1,0,0,0,100,0,1,0,0,0,0,0,0,0,0,0,0,0,0,30-44,Male,"$200,000+",Pacific,MacOS Desktop / Laptop,32
+0,0,High School or GED,1,0,0,0,1,0,0,1,25,1,1,0,0,0,0,1,0,0,0,0,0,0,0,18-29,Male,"$25,000-$49,999",East North Central,iOS Phone / Tablet,33
+1,0,High School or GED,1,0,0,0,1,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18-29,Male,"$25,000-$49,999",South Atlantic,iOS Phone / Tablet,34
+1,0,Some Undergraduate,1,0,0,0,1,0,1,36,20,0,1,2,0,0,1,0,0,0,0,0,0,0,0,30-44,Male,"$0-$9,999",West North Central,Windows Desktop / Laptop,35
+1,1,Some Undergraduate,1,0,,0,1,0,1,7,38,0,1,0,0,0,0,1,1,1,1,0,1,1,1,30-44,Male,"$25,000-$49,999",East North Central,iOS Phone / Tablet,36
+1,1,Completed Undergraduate,1,0,0,1,1,0,0,0,18,0,1,0,0,0,0,1,1,1,0,0,0,0,1,18-29,Male,"$200,000+",South Atlantic,iOS Phone / Tablet,37
+0,0,Some highschool,1,0,0,0,1,1,0,0,0,1,1,0,0,1,0,0,1,0,0,0,0,0,0,30-44,Male,Prefer not to answer,Pacific,Windows Desktop / Laptop,38
+1,0,Some Undergraduate,1,0,0,0,1,0,0,0,8,0,1,0,0,0,0,0,0,0,0,0,0,0,0,30-44,Male,"$75,000-$99,999",West South Central,Windows Desktop / Laptop,39
+1,0,High School or GED,1,0,0,0,1,0,0,0,7,0,1,0,0,0,0,1,1,1,1,0,1,0,1,30-44,Male,"$50,000-$74,999",Pacific,iOS Phone / Tablet,40
+0,1,Completed Undergraduate,0,0,78,1,1,1,0,22,0,1,0,0,0,0,0,0,1,1,0,1,0,0,0,30-44,Male,"$0-$9,999",Middle Atlantic,Android Phone / Tablet,41
+0,0,Some Undergraduate,0,0,44,0,0,0,0,43,49,0,1,3,0,0,3,0,1,0,0,0,0,0,0,30-44,Male,"$0-$9,999",South Atlantic,Windows Desktop / Laptop,42
+1,0,Some Undergraduate,0,0,0,0,1,0,0,0,45,0,1,0,0,0,0,0,1,0,0,0,0,0,0,30-44,Male,"$25,000-$49,999",South Atlantic,iOS Phone / Tablet,43
+1,0,Completed Undergraduate,1,0,0,0,1,0,0,0,47,0,1,0,0,0,0,1,0,0,0,0,0,0,1,30-44,Male,"$25,000-$49,999",West South Central,Android Phone / Tablet,44
+0,0,High School or GED,1,0,0,0,1,1,0,0,39,1,0,0,0,0,0,0,0,0,0,0,0,0,1,18-29,Male,Prefer not to answer,Pacific,Android Phone / Tablet,45
+0,0,Completed Masters,1,0,,0,0,0,0,6,27,0,1,2,0,0,1,0,0,0,0,0,0,0,0,18-29,Male,Prefer not to answer,Middle Atlantic,Windows Desktop / Laptop,46
+1,0,Completed Undergraduate,1,0,0,0,1,0,0,0,93,0,1,93,0,0,0,0,0,0,0,0,0,0,1,30-44,Male,"$75,000-$99,999",East North Central,iOS Phone / Tablet,47
+0,1,Completed Phd,1,0,0,0,1,0,1,100,100,1,1,0,0,0,0,1,0,1,0,0,0,0,1,30-44,Male,"$200,000+",Pacific,MacOS Desktop / Laptop,48
+1,1,High School or GED,1,0,0,0,1,0,1,52,10,0,0,0,0,0,0,0,1,0,0,0,1,0,0,30-44,Male,Prefer not to answer,East South Central,Windows Desktop / Laptop,49
+1,1,Completed Undergraduate,1,0,0,0,1,0,0,6,46,0,1,0,0,0,0,0,1,1,0,0,1,0,0,18-29,Male,"$25,000-$49,999",East North Central,iOS Phone / Tablet,50
+1,1,Some Undergraduate,1,0,0,0,1,0,0,0,28,0,1,0,0,0,0,0,1,1,1,0,1,0,0,30-44,Male,"$10,000-$24,999",Mountain,Windows Desktop / Laptop,51
+0,1,High School or GED,0,1,60,1,1,1,1,10,7,1,1,7,0,0,7,0,1,1,1,0,1,0,1,30-44,Male,"$0-$9,999",Middle Atlantic,Android Phone / Tablet,52
+1,1,High School or GED,1,0,0,0,1,0,0,0,27,0,1,0,0,0,0,0,0,1,0,0,0,0,0,18-29,Male,"$25,000-$49,999",East South Central,Android Phone / Tablet,53
+0,0,Completed Undergraduate,1,0,0,0,1,0,1,32,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,30-44,Male,"$0-$9,999",Mountain,iOS Phone / Tablet,54
+1,0,Some Undergraduate,1,0,0,0,1,0,0,0,100,0,1,0,0,0,0,0,0,0,0,0,0,0,0,45-60,Male,"$100,000-$124,999",South Atlantic,iOS Phone / Tablet,55
+1,0,Completed Masters,1,0,0,0,1,0,1,10,32,0,1,0,0,0,0,0,0,0,0,0,0,0,1,> 60,Male,"$25,000-$49,999",Middle Atlantic,iOS Phone / Tablet,56
+1,0,Completed Undergraduate,1,1,13,0,1,0,1,23,39,0,1,0,0,0,1,0,0,0,0,0,0,0,0,> 60,Male,"$25,000-$49,999",Middle Atlantic,Windows Desktop / Laptop,57
+1,0,Some Masters,1,0,0,0,1,0,0,1,2,0,1,4,0,0,0,0,0,0,0,0,0,0,0,> 60,Male,"$125,000-$149,999",Middle Atlantic,Windows Desktop / Laptop,58
+1,1,Completed Masters,1,1,8,0,1,0,0,0,100,0,1,100,0,0,1,0,0,1,0,0,0,0,0,45-60,Male,"$200,000+",Pacific,MacOS Desktop / Laptop,59
+0,0,Completed Undergraduate,1,0,0,1,1,0,0,0,28,0,1,10,0,0,0,1,0,0,0,0,0,0,0,45-60,Male,"$150,000-$174,999",Pacific,Windows Desktop / Laptop,60
+1,0,Completed Masters,1,0,0,0,1,0,0,0,61,0,1,0,0,0,0,0,0,0,0,0,0,0,0,45-60,Male,"$200,000+",Pacific,iOS Phone / Tablet,61
+1,0,Completed Undergraduate,1,0,0,0,1,0,0,0,50,0,1,0,0,0,0,0,0,0,0,0,0,0,1,45-60,Male,"$200,000+",South Atlantic,Windows Desktop / Laptop,62
+1,0,Completed Masters,1,0,0,0,1,0,0,0,75,0,1,0,0,0,0,0,0,0,0,0,0,0,0,45-60,Male,"$75,000-$99,999",Middle Atlantic,Windows Desktop / Laptop,63
+0,0,Completed Undergraduate,1,0,,0,1,0,0,0,100,0,1,0,0,0,0,0,0,0,0,0,0,0,0,> 60,Male,"$200,000+",Middle Atlantic,Windows Desktop / Laptop,64
+1,0,Some Phd,1,0,0,0,1,0,0,0,11,0,1,0,0,0,0,0,0,0,0,0,0,0,0,45-60,Male,"$100,000-$124,999",Pacific,MacOS Desktop / Laptop,65
+1,0,Completed Undergraduate,1,0,0,0,1,0,0,0,35,0,1,0,0,0,0,0,0,0,0,0,0,0,1,> 60,Male,"$75,000-$99,999",East North Central,Windows Desktop / Laptop,66
+1,0,Some Phd,1,0,0,0,1,0,0,0,90,0,1,0,0,0,0,0,0,0,0,0,0,0,0,> 60,Male,"$100,000-$124,999",Pacific,iOS Phone / Tablet,67
+0,0,Completed Phd,1,0,1,1,1,0,0,1,40,1,1,1,0,0,0,1,0,0,0,0,0,0,0,30-44,Male,"$25,000-$49,999",West South Central,Windows Desktop / Laptop,68
+1,0,Completed Phd,1,0,0,0,1,0,0,0,30,0,1,0,1,0,0,0,0,0,0,0,0,0,0,45-60,Male,"$25,000-$49,999",East North Central,Windows Desktop / Laptop,69
+0,1,Some Undergraduate,0,1,91,1,1,0,1,4,62,1,1,0,0,0,5,0,1,1,1,0,1,0,0,> 60,Male,"$75,000-$99,999",Pacific,MacOS Desktop / Laptop,70
+1,0,Completed Undergraduate,1,0,1,0,1,0,0,1,14,0,1,2,0,0,0,0,0,0,0,0,0,0,0,> 60,Male,"$50,000-$74,999",East North Central,Windows Desktop / Laptop,71
+0,1,Completed Masters,1,0,0,0,1,0,0,0,78,0,1,0,0,0,1,0,1,1,0,0,0,0,1,> 60,Male,"$50,000-$74,999",New England,Windows Desktop / Laptop,72
+1,0,Completed Undergraduate,1,0,0,0,1,0,0,0,6,0,1,60,0,0,0,0,0,0,0,0,0,0,0,45-60,Male,"$50,000-$74,999",Mountain,Windows Desktop / Laptop,73
+1,0,Some Undergraduate,1,0,0,0,1,0,0,0,91,0,1,0,0,0,0,0,1,0,0,0,0,0,0,30-44,Male,"$75,000-$99,999",Mountain,Android Phone / Tablet,74
+1,0,Completed Undergraduate,1,0,0,0,1,0,1,100,44,0,1,0,0,0,0,0,1,0,0,0,0,0,0,> 60,Male,"$75,000-$99,999",New England,Windows Desktop / Laptop,75
+1,0,Some Undergraduate,1,0,0,0,1,0,1,53,73,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45-60,Male,"$125,000-$149,999",Middle Atlantic,Windows Desktop / Laptop,76
+0,1,Completed Masters,1,0,0,0,1,0,0,0,100,1,1,0,0,0,0,0,0,1,0,0,0,0,0,> 60,Male,"$150,000-$174,999",East North Central,Windows Desktop / Laptop,77
+0,0,Completed Undergraduate,1,0,0,0,1,1,0,0,16,0,1,0,0,0,0,0,0,0,0,0,0,0,1,30-44,Male,"$10,000-$24,999",,Windows Desktop / Laptop,78
+1,0,Some Undergraduate,1,0,0,0,1,0,0,9,28,0,1,0,0,0,0,0,0,1,0,0,0,0,1,45-60,Male,"$25,000-$49,999",Pacific,Windows Desktop / Laptop,79
+1,0,Completed Masters,1,0,0,0,1,0,0,0,14,0,1,0,0,0,0,0,0,0,0,0,0,0,0,> 60,Male,"$125,000-$149,999",Mountain,Windows Desktop / Laptop,80
+0,0,Some Masters,1,0,0,0,1,0,0,0,100,0,1,0,0,0,0,0,0,0,0,0,0,0,0,> 60,Male,"$100,000-$124,999",South Atlantic,Windows Desktop / Laptop,81
+0,1,Some Undergraduate,1,1,14,0,1,0,1,100,15,1,1,0,0,0,1,0,1,1,1,0,1,1,0,45-60,Male,"$100,000-$124,999",South Atlantic,MacOS Desktop / Laptop,82
+1,1,Completed Phd,1,0,0,0,1,0,0,0,100,0,1,0,0,0,0,0,1,1,0,0,0,0,0,45-60,Male,"$200,000+",Middle Atlantic,iOS Phone / Tablet,83
+1,0,High School or GED,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,30-44,Male,Prefer not to answer,Pacific,iOS Phone / Tablet,84
+0,0,Completed Masters,1,0,0,0,1,0,0,0,12,0,1,0,0,0,0,0,0,0,0,0,0,0,1,> 60,Male,"$75,000-$99,999",Pacific,Windows Desktop / Laptop,85
+1,0,High School or GED,1,0,0,0,1,0,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,30-44,Male,"$10,000-$24,999",West South Central,Android Phone / Tablet,86
+0,0,Completed Undergraduate,1,0,0,0,1,0,0,0,95,0,1,0,0,0,0,0,0,0,0,0,1,0,0,> 60,Male,"$75,000-$99,999",West North Central,Android Phone / Tablet,87
+1,0,Completed Masters,1,0,0,0,1,1,1,6,33,0,1,0,0,0,0,0,0,0,0,0,0,0,0,30-44,Male,"$25,000-$49,999",East North Central,Android Phone / Tablet,88
+0,0,Completed Undergraduate,1,0,1,1,1,0,0,0,10,1,1,25,0,0,0,0,0,0,0,0,0,0,1,> 60,Male,"$25,000-$49,999",South Atlantic,Windows Desktop / Laptop,89
+0,0,Completed Phd,1,0,0,0,1,0,0,0,11,1,1,0,0,0,0,0,0,0,0,0,0,0,0,> 60,Male,"$75,000-$99,999",South Atlantic,Other,90
+1,0,High School or GED,1,0,,0,1,0,0,0,65,0,1,0,0,0,0,0,0,0,0,0,0,0,0,18-29,Male,"$50,000-$74,999",Pacific,iOS Phone / Tablet,91
+1,0,Completed Undergraduate,1,0,0,0,1,0,0,0,86,0,1,0,0,0,0,0,0,0,0,0,0,0,0,45-60,Male,"$150,000-$174,999",New England,iOS Phone / Tablet,92
+1,0,Completed Masters,1,0,0,0,1,0,0,0,50,0,1,0,0,0,0,0,0,0,0,0,0,0,0,> 60,Male,"$50,000-$74,999",East North Central,Windows Desktop / Laptop,93
+1,0,Completed Undergraduate,1,0,0,0,1,0,0,0,92,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45-60,Male,"$100,000-$124,999",Middle Atlantic,Windows Desktop / Laptop,94
+1,1,Some Undergraduate,1,1,5,0,1,0,0,0,75,0,1,0,0,0,1,1,0,1,0,0,0,0,0,45-60,Male,"$100,000-$124,999",Middle Atlantic,Windows Desktop / Laptop,95
+0,0,Some Undergraduate,1,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,45-60,Male,"$75,000-$99,999",Pacific,Windows Desktop / Laptop,96
+1,1,Completed Undergraduate,1,0,0,1,1,0,1,48,8,0,1,0,0,0,0,0,0,1,0,0,0,1,0,45-60,Male,"$50,000-$74,999",Mountain,Windows Desktop / Laptop,97
+1,0,Some Undergraduate,1,0,,0,1,0,0,0,27,0,1,0,0,0,0,0,0,0,0,0,0,0,0,45-60,Female,"$25,000-$49,999",East North Central,Windows Desktop / Laptop,98
+1,0,Completed Undergraduate,1,0,0,1,1,0,0,1,100,0,1,0,0,0,0,0,0,0,0,0,0,0,0,> 60,Male,"$125,000-$149,999",Middle Atlantic,Windows Desktop / Laptop,99
+1,1,Some Undergraduate,1,0,0,0,1,0,0,0,95,0,1,0,0,0,0,1,1,1,0,0,0,0,0,45-60,Female,"$75,000-$99,999",Mountain,iOS Phone / Tablet,100
+1,0,Some Undergraduate,1,0,0,0,1,0,0,0,72,0,1,0,0,0,0,0,0,0,0,0,0,0,0,> 60,Male,"$50,000-$74,999",West South Central,iOS Phone / Tablet,101
+0,0,Some Masters,1,0,0,0,1,0,0,0,65,1,1,0,0,0,0,0,0,0,0,0,0,0,0,> 60,Female,"$50,000-$74,999",South Atlantic,Windows Desktop / Laptop,102
+1,0,Some Undergraduate,1,0,0,0,1,0,0,1,25,0,1,0,0,0,1,0,0,0,0,0,0,0,0,45-60,Male,Prefer not to answer,West South Central,Windows Desktop / Laptop,103
+0,0,High School or GED,1,0,0,0,1,0,1,100,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,45-60,Female,"$50,000-$74,999",East South Central,iOS Phone / Tablet,104
+1,0,Completed Undergraduate,1,0,0,0,1,0,0,0,61,0,1,0,0,0,0,0,0,0,0,0,0,0,0,> 60,Female,"$50,000-$74,999",South Atlantic,iOS Phone / Tablet,105
+1,0,Some Undergraduate,0,0,0,0,1,0,1,2,10,1,1,0,1,0,0,0,0,1,0,0,0,0,0,18-29,Male,"$0-$9,999",East North Central,Android Phone / Tablet,106
+1,1,Completed Masters,1,0,0,0,1,0,0,0,71,0,1,0,0,0,0,0,0,1,0,0,0,0,0,30-44,Male,"$200,000+",Middle Atlantic,Windows Desktop / Laptop,107
+1,0,Some Undergraduate,1,0,0,0,1,0,0,0,80,0,1,0,0,0,0,1,0,0,0,0,0,0,0,45-60,Male,"$75,000-$99,999",Mountain,Android Phone / Tablet,108
+1,0,Completed Undergraduate,1,0,0,0,1,0,0,0,15,0,1,0,0,0,0,1,0,0,0,0,0,0,1,45-60,Male,"$125,000-$149,999",Middle Atlantic,Android Phone / Tablet,109
+1,0,High School or GED,1,0,,0,1,0,0,1,38,0,1,0,0,1,0,0,0,0,0,0,0,0,0,> 60,Female,"$25,000-$49,999",Middle Atlantic,Windows Desktop / Laptop,110
+0,0,Some highschool,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,45-60,Female,Prefer not to answer,New England,Android Phone / Tablet,111
+1,0,Completed Undergraduate,1,0,,0,1,0,1,14,57,0,1,4,0,0,0,0,0,0,0,0,0,0,0,> 60,Female,"$50,000-$74,999",Mountain,iOS Phone / Tablet,112
+0,0,Completed Masters,1,0,0,0,1,0,0,0,29,0,1,0,0,0,0,0,0,0,0,0,0,0,0,> 60,Male,"$200,000+",West South Central,iOS Phone / Tablet,113
+1,0,Completed Undergraduate,1,0,1,0,1,0,0,0,35,0,1,11,0,0,0,0,0,0,0,0,0,0,0,> 60,Female,"$25,000-$49,999",Mountain,iOS Phone / Tablet,114
+1,0,Completed Undergraduate,1,0,0,0,1,0,0,0,22,0,0,59,0,0,0,0,0,0,0,0,0,0,0,> 60,Male,"$200,000+",West South Central,iOS Phone / Tablet,115
+1,0,Completed Masters,1,0,0,0,1,0,0,0,100,0,1,0,0,0,0,0,0,0,0,0,0,0,1,45-60,Female,"$200,000+",Middle Atlantic,Android Phone / Tablet,116
+1,0,Completed Undergraduate,1,0,0,0,1,0,0,0,49,0,1,0,0,0,0,0,0,0,0,0,0,0,0,> 60,Female,Prefer not to answer,South Atlantic,iOS Phone / Tablet,117
+1,0,Completed Masters,1,0,,0,1,0,0,0,80,0,1,0,0,0,0,0,0,0,0,0,0,0,0,45-60,Female,"$125,000-$149,999",South Atlantic,iOS Phone / Tablet,118
+1,0,Some Undergraduate,0,0,0,0,1,0,0,0,53,0,1,0,0,0,0,0,0,0,0,0,0,0,0,> 60,Male,"$25,000-$49,999",Middle Atlantic,iOS Phone / Tablet,119
+1,0,Completed Undergraduate,1,0,0,0,1,0,0,0,100,0,1,0,0,0,0,0,0,0,0,0,0,0,0,> 60,Male,"$100,000-$124,999",Mountain,iOS Phone / Tablet,120
+1,0,High School or GED,1,0,0,0,1,0,0,0,97,0,1,0,0,0,0,0,1,0,0,0,0,0,0,45-60,Female,Prefer not to answer,New England,iOS Phone / Tablet,121
+0,0,Completed Undergraduate,1,1,21,0,1,0,0,0,25,0,1,0,0,0,2,0,0,0,0,0,0,0,1,> 60,Female,"$10,000-$24,999",Middle Atlantic,Windows Desktop / Laptop,122
+0,0,Completed Masters,1,0,0,0,1,0,0,0,100,0,1,0,0,0,0,0,0,0,0,0,0,0,0,> 60,Female,"$200,000+",South Atlantic,iOS Phone / Tablet,123
+1,0,Some Undergraduate,1,0,0,0,1,0,0,1,56,0,1,1,0,0,0,0,0,0,0,0,0,0,1,45-60,Male,"$75,000-$99,999",Middle Atlantic,MacOS Desktop / Laptop,124
+1,0,Completed Undergraduate,1,0,0,0,0,0,1,8,17,0,1,0,1,0,0,0,0,0,0,0,0,0,0,45-60,Male,"$10,000-$24,999",South Atlantic,Android Phone / Tablet,125
+0,0,High School or GED,1,0,0,1,1,0,0,0,12,1,1,12,0,0,0,0,0,0,0,0,0,0,0,> 60,Male,"$10,000-$24,999",East North Central,Windows Desktop / Laptop,126
+1,0,Completed Undergraduate,1,0,,0,1,0,0,0,12,0,1,0,0,0,0,0,0,0,0,0,0,0,0,45-60,Female,"$200,000+",Mountain,MacOS Desktop / Laptop,127
+1,0,Some Undergraduate,1,0,0,0,1,0,1,18,19,0,1,0,0,0,1,0,0,1,0,0,0,0,1,> 60,Female,Prefer not to answer,East South Central,Windows Desktop / Laptop,128
+1,0,High School or GED,1,0,0,0,1,0,0,0,21,0,1,0,0,0,0,0,1,0,0,0,0,0,0,45-60,Female,"$150,000-$174,999",South Atlantic,Android Phone / Tablet,129
+1,0,High School or GED,1,0,1,1,1,0,0,1,35,0,1,0,0,0,0,0,0,0,0,0,0,0,0,> 60,Male,"$25,000-$49,999",South Atlantic,Windows Desktop / Laptop,130
+1,0,Completed Phd,1,0,0,0,1,0,0,0,9,0,1,0,0,0,0,0,0,0,0,0,0,0,1,45-60,Female,"$125,000-$149,999",South Atlantic,Windows Desktop / Laptop,131
+0,0,Completed Undergraduate,1,0,0,0,1,0,0,0,31,0,1,0,0,0,0,0,0,0,0,0,0,0,1,> 60,Male,Prefer not to answer,South Atlantic,Windows Desktop / Laptop,132
+1,0,Completed Undergraduate,1,0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,0,0,0,> 60,Male,Prefer not to answer,West North Central,Windows Desktop / Laptop,133
+0,0,High School or GED,0,0,0,0,1,0,1,13,21,0,1,0,0,0,0,0,0,0,0,0,0,0,1,30-44,Male,"$25,000-$49,999",East South Central,Android Phone / Tablet,134
+1,0,High School or GED,1,0,99,0,1,1,1,11,1,0,1,2,0,0,69,0,0,0,0,0,1,1,0,45-60,Female,"$0-$9,999",West South Central,Android Phone / Tablet,135
+0,0,Completed Undergraduate,1,0,0,0,1,0,0,0,100,0,1,0,0,0,0,0,0,0,0,0,0,0,0,45-60,Female,Prefer not to answer,West South Central,Android Phone / Tablet,136
+1,0,Some Undergraduate,1,0,0,0,1,0,0,0,27,0,1,0,0,0,0,0,1,0,1,0,1,1,1,45-60,Female,"$50,000-$74,999",East South Central,Windows Desktop / Laptop,137
+1,0,Completed Undergraduate,1,0,0,0,1,0,1,16,59,0,1,54,0,0,0,0,0,0,0,0,0,0,1,45-60,Female,"$25,000-$49,999",South Atlantic,Android Phone / Tablet,138
+0,0,Completed Masters,1,0,0,0,1,0,0,1,99,1,1,0,0,0,0,0,0,0,0,0,0,0,0,> 60,Female,"$175,000-$199,999",Middle Atlantic,Windows Desktop / Laptop,139
+0,0,Some Undergraduate,1,0,1,1,1,0,0,1,88,1,1,0,0,0,0,0,0,0,0,0,0,0,0,> 60,Male,"$75,000-$99,999",Middle Atlantic,Windows Desktop / Laptop,140
+1,0,Completed Masters,1,0,0,0,1,0,0,0,69,0,0,0,0,0,1,0,0,0,0,0,0,0,0,45-60,Female,"$100,000-$124,999",Middle Atlantic,Windows Desktop / Laptop,141
+1,0,Completed Undergraduate,1,0,0,0,1,0,0,0,37,0,1,0,0,0,0,0,0,0,0,0,0,0,0,45-60,Female,"$50,000-$74,999",South Atlantic,iOS Phone / Tablet,142
+1,0,Completed Masters,1,0,0,0,1,0,0,0,80,0,1,0,0,0,0,0,0,0,0,0,0,0,0,45-60,Female,"$200,000+",Mountain,Windows Desktop / Laptop,143
+0,0,Some Undergraduate,1,0,0,0,1,0,1,24,67,1,1,0,0,0,0,0,1,1,1,0,0,0,1,45-60,Female,"$50,000-$74,999",West South Central,Windows Desktop / Laptop,144
+1,0,High School or GED,1,0,0,0,1,0,0,0,30,0,1,0,0,0,0,0,0,0,0,0,0,0,0,45-60,Female,"$25,000-$49,999",South Atlantic,Windows Desktop / Laptop,145
+1,0,High School or GED,1,0,0,0,1,0,1,12,27,0,1,0,0,0,0,0,0,0,0,0,0,0,0,45-60,Female,"$25,000-$49,999",Middle Atlantic,Android Phone / Tablet,146
+0,0,Some Undergraduate,1,0,0,0,1,0,0,1,43,1,1,0,0,0,0,0,0,0,1,0,0,0,0,> 60,Male,Prefer not to answer,East North Central,Windows Desktop / Laptop,147
+1,0,Completed Masters,1,0,0,0,1,0,0,0,70,0,1,0,0,0,0,0,0,0,0,0,0,0,0,45-60,Female,"$200,000+",Mountain,Windows Desktop / Laptop,148
+1,0,High School or GED,1,0,0,0,1,0,0,0,16,0,1,0,0,0,0,0,0,0,0,0,0,0,0,45-60,Male,"$150,000-$174,999",Middle Atlantic,iOS Phone / Tablet,149
+1,1,Completed Masters,1,0,0,0,1,0,0,0,75,0,1,0,0,0,0,0,0,0,0,0,0,0,0,45-60,Female,"$50,000-$74,999",East South Central,MacOS Desktop / Laptop,150
+1,0,High School or GED,1,0,0,0,1,0,1,48,10,0,1,0,0,0,0,0,0,0,0,0,0,0,0,45-60,Female,"$150,000-$174,999",South Atlantic,Windows Desktop / Laptop,151
+1,0,Some Phd,1,0,0,0,1,0,0,0,100,0,1,0,0,0,0,0,0,0,0,0,0,0,1,45-60,Male,"$100,000-$124,999",West South Central,iOS Phone / Tablet,152
+1,0,Some Undergraduate,1,0,0,0,1,0,0,0,80,0,1,0,0,0,0,0,0,0,0,0,0,0,0,45-60,Male,"$75,000-$99,999",West South Central,Windows Desktop / Laptop,153
+1,0,High School or GED,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,45-60,Female,Prefer not to answer,West South Central,iOS Phone / Tablet,154
+1,0,Some Undergraduate,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,> 60,Male,Prefer not to answer,East North Central,MacOS Desktop / Laptop,155
+1,0,Some Undergraduate,1,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,> 60,Male,"$100,000-$124,999",Middle Atlantic,Windows Desktop / Laptop,156
+1,0,High School or GED,1,0,1,0,1,0,0,0,0,0,1,0,0,0,3,0,0,0,0,0,0,0,0,45-60,Female,"$25,000-$49,999",South Atlantic,Android Phone / Tablet,157
+1,0,Completed Masters,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,45-60,Female,"$200,000+",Pacific,iOS Phone / Tablet,158
+1,0,Completed Phd,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,45-60,Female,"$50,000-$74,999",East North Central,iOS Phone / Tablet,159
+0,0,Completed Undergraduate,1,0,0,0,1,0,0,0,16,0,1,0,0,0,0,0,0,0,0,0,0,0,0,> 60,Female,"$125,000-$149,999",South Atlantic,iOS Phone / Tablet,160
+0,1,Some Undergraduate,0,1,2,1,0,0,1,100,10,1,1,10,1,0,5,1,1,1,1,1,1,1,1,45-60,Female,"$0-$9,999",New England,Android Phone / Tablet,161
+1,1,Some Undergraduate,1,0,0,0,1,1,0,0,59,0,1,0,0,0,0,1,1,1,1,1,1,1,1,45-60,Female,"$50,000-$74,999",South Atlantic,iOS Phone / Tablet,162
+1,0,Completed Undergraduate,0,0,,0,1,0,0,0,92,0,1,0,0,0,0,0,0,0,0,0,0,0,0,45-60,Female,Prefer not to answer,East North Central,iOS Phone / Tablet,163
+0,0,Completed Undergraduate,1,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,> 60,Female,Prefer not to answer,East North Central,Windows Desktop / Laptop,164
+1,0,Completed Masters,1,0,0,0,1,0,0,0,7,0,1,0,0,0,0,0,0,0,0,0,0,0,0,45-60,Male,"$125,000-$149,999",East North Central,iOS Phone / Tablet,165
+1,0,High School or GED,1,0,0,0,1,0,0,0,35,0,1,0,0,0,0,0,0,0,0,0,0,0,0,45-60,Male,"$10,000-$24,999",South Atlantic,Windows Desktop / Laptop,166
+1,0,Completed Masters,1,0,0,0,1,0,0,0,7,0,1,0,0,0,0,0,0,0,0,0,0,0,0,45-60,Female,Prefer not to answer,New England,Windows Desktop / Laptop,167
+1,0,Some Undergraduate,1,0,0,0,1,0,0,0,50,0,1,0,0,0,0,0,1,0,0,0,1,0,0,30-44,Male,"$25,000-$49,999",West North Central,Android Phone / Tablet,168
+1,0,Some Undergraduate,1,0,0,0,1,0,0,0,100,0,1,0,0,0,0,0,0,0,0,0,0,0,0,30-44,Male,"$100,000-$124,999",South Atlantic,iOS Phone / Tablet,169
+0,1,High School or GED,0,0,0,1,1,0,1,100,0,1,1,0,1,1,0,1,1,0,0,1,0,1,0,45-60,Male,"$0-$9,999",Mountain,Android Phone / Tablet,170
+1,0,Completed Undergraduate,1,0,0,0,1,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45-60,Female,"$50,000-$74,999",Mountain,Android Phone / Tablet,171
+0,0,Completed Masters,1,0,0,0,1,0,0,0,12,1,1,0,0,0,0,0,0,0,0,0,0,0,0,> 60,Male,"$75,000-$99,999",Pacific,Other,172
+0,0,Some Undergraduate,1,0,0,0,1,0,0,0,42,0,1,17,0,0,0,0,0,0,0,0,0,0,0,> 60,Female,Prefer not to answer,Middle Atlantic,iOS Phone / Tablet,173
+0,0,Completed Undergraduate,1,0,0,1,1,0,0,0,10,1,1,0,0,0,0,0,0,1,0,0,0,0,0,45-60,Male,"$25,000-$49,999",Mountain,Android Phone / Tablet,174
+0,0,Completed Undergraduate,1,0,0,0,1,0,0,0,53,0,1,0,0,0,0,0,0,0,1,0,0,0,0,> 60,Male,"$25,000-$49,999",South Atlantic,Android Phone / Tablet,175
+1,0,Some Phd,1,0,,0,1,0,0,0,16,0,1,0,0,0,0,1,0,0,0,0,0,0,0,45-60,Male,"$10,000-$24,999",East North Central,MacOS Desktop / Laptop,176
+0,0,Completed Masters,1,0,0,0,1,0,0,0,22,0,1,1,0,0,0,0,0,0,0,0,0,0,0,> 60,Female,"$50,000-$74,999",South Atlantic,MacOS Desktop / Laptop,177
+1,0,Completed Masters,1,0,0,0,1,0,0,0,13,0,1,0,0,0,0,0,0,0,0,0,0,0,0,45-60,Female,"$50,000-$74,999",East North Central,Android Phone / Tablet,178
+1,0,Completed Undergraduate,1,0,1,0,1,0,0,2,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,45-60,Female,Prefer not to answer,South Atlantic,Windows Desktop / Laptop,179
+0,1,High School or GED,0,1,2,1,1,1,1,9,19,1,1,24,0,0,20,1,1,1,1,1,0,0,0,18-29,Male,"$50,000-$74,999",Pacific,Android Phone / Tablet,180
+1,0,Completed Undergraduate,1,0,0,0,1,0,0,0,40,0,1,0,0,0,0,0,0,0,0,0,0,0,0,> 60,Male,"$25,000-$49,999",South Atlantic,Windows Desktop / Laptop,181
+1,0,Completed Masters,1,0,0,0,1,0,0,0,96,0,1,0,0,0,0,0,1,0,0,0,0,0,0,45-60,Female,"$75,000-$99,999",Middle Atlantic,iOS Phone / Tablet,182
+1,0,Completed Undergraduate,1,0,,0,1,0,0,0,55,0,1,0,0,0,0,0,0,0,0,0,0,0,0,18-29,Male,"$50,000-$74,999",Pacific,Android Phone / Tablet,183
+1,0,Completed Undergraduate,1,0,0,0,1,0,0,0,100,0,1,0,0,0,0,0,0,0,0,0,0,0,1,45-60,Male,"$125,000-$149,999",New England,Windows Desktop / Laptop,184
+0,0,Completed Undergraduate,1,0,6,0,1,0,0,3,44,1,1,20,0,0,0,0,0,0,0,0,0,0,1,> 60,Female,"$25,000-$49,999",New England,Windows Desktop / Laptop,185
+1,0,High School or GED,1,0,,0,1,0,0,7,32,0,1,45,0,0,0,0,0,0,0,1,0,0,1,30-44,Male,"$0-$9,999",Pacific,Android Phone / Tablet,186
+0,0,Completed Masters,1,0,0,0,1,0,0,0,60,0,1,0,0,0,0,0,0,0,0,0,0,0,0,> 60,Male,"$50,000-$74,999",Pacific,MacOS Desktop / Laptop,187
+1,0,Some Undergraduate,1,0,0,0,1,0,0,0,23,0,1,0,0,0,0,0,0,0,0,0,0,0,0,45-60,Female,"$10,000-$24,999",West South Central,Android Phone / Tablet,188
+1,0,Some Masters,1,0,1,0,1,0,0,1,19,0,1,10,0,0,0,0,1,0,1,1,0,0,1,> 60,Male,"$150,000-$174,999",South Atlantic,Windows Desktop / Laptop,189
+1,0,Some Undergraduate,1,0,0,0,1,0,0,12,27,0,1,0,0,0,0,0,0,0,1,0,0,0,0,45-60,Female,"$0-$9,999",Middle Atlantic,Android Phone / Tablet,190
+1,0,Some Phd,1,0,0,0,1,0,0,1,9,0,1,0,0,0,0,0,0,0,0,0,0,0,0,> 60,Female,"$25,000-$49,999",Middle Atlantic,Windows Desktop / Laptop,191
+0,0,Completed Undergraduate,1,0,0,0,1,0,1,3,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,45-60,Male,Prefer not to answer,South Atlantic,iOS Phone / Tablet,192
+0,0,Completed Undergraduate,1,0,0,1,1,0,0,0,27,0,1,23,1,0,0,0,0,0,0,0,0,0,0,45-60,Female,"$10,000-$24,999",West South Central,iOS Phone / Tablet,193
+0,0,Some Undergraduate,1,0,0,1,1,1,1,100,4,1,1,5,0,0,0,0,0,0,0,0,0,0,0,45-60,Male,"$50,000-$74,999",Middle Atlantic,Windows Desktop / Laptop,194
+0,0,Completed Masters,0,0,0,0,1,0,0,0,46,0,1,0,0,0,0,0,0,0,0,0,0,0,0,> 60,Female,"$50,000-$74,999",South Atlantic,Android Phone / Tablet,195
+1,0,Some Masters,1,0,0,0,1,0,0,0,73,0,1,0,0,0,0,0,0,0,0,0,0,0,1,30-44,Female,"$125,000-$149,999",New England,Windows Desktop / Laptop,196
+0,1,Some Undergraduate,1,1,100,0,1,0,1,18,20,1,1,0,0,0,4,0,1,1,0,0,0,0,0,18-29,Female,Prefer not to answer,Middle Atlantic,iOS Phone / Tablet,197
+1,1,Some Undergraduate,0,0,0,0,1,0,0,0,17,0,1,0,0,0,0,1,1,1,1,1,1,1,1,45-60,Female,"$10,000-$24,999",South Atlantic,Android Phone / Tablet,198
+1,0,High School or GED,0,0,,0,1,0,0,0,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18-29,Female,"$25,000-$49,999",East North Central,Android Phone / Tablet,199
+1,0,Completed Masters,1,0,0,0,1,0,0,0,75,0,1,0,0,0,0,0,0,0,0,0,0,0,0,> 60,Male,"$75,000-$99,999",West South Central,Android Phone / Tablet,200
+0,0,High School or GED,1,0,0,1,1,1,0,2,4,1,0,4,0,0,0,0,1,1,0,1,0,0,0,30-44,Female,"$0-$9,999",East South Central,Android Phone / Tablet,201
+1,1,Completed Undergraduate,1,0,0,0,1,0,0,0,36,0,1,0,0,0,0,0,0,1,0,1,0,0,1,45-60,Female,"$100,000-$124,999",West South Central,iOS Phone / Tablet,202
+0,0,High School or GED,1,0,,0,1,1,0,3,23,0,0,0,1,0,0,0,1,0,0,0,0,0,0,30-44,Female,"$10,000-$24,999",Middle Atlantic,Android Phone / Tablet,203
+1,0,Completed Masters,1,0,0,0,1,0,0,0,21,0,1,0,0,0,0,0,0,0,0,0,0,0,1,30-44,Male,"$0-$9,999",,Windows Desktop / Laptop,204
+1,0,High School or GED,1,0,0,0,1,0,0,0,56,0,1,0,0,0,0,0,0,0,0,0,0,0,0,45-60,Female,Prefer not to answer,East South Central,Windows Desktop / Laptop,205
+1,0,Completed Undergraduate,1,0,,0,1,1,0,0,15,0,1,0,0,0,0,1,0,0,0,0,0,0,0,18-29,Female,"$10,000-$24,999",East North Central,Android Phone / Tablet,206
+1,0,Completed Undergraduate,1,0,0,0,1,0,0,0,96,0,1,0,0,0,0,0,0,1,0,0,0,0,0,30-44,Female,"$75,000-$99,999",South Atlantic,iOS Phone / Tablet,207
+1,1,Completed Undergraduate,1,0,,0,1,0,0,0,23,0,1,0,0,0,0,1,0,1,0,1,0,0,0,18-29,Female,"$10,000-$24,999",Pacific,Windows Desktop / Laptop,208
+1,0,Some Undergraduate,0,0,0,0,1,0,0,1,39,1,1,0,0,0,0,0,0,0,0,0,0,0,1,30-44,Female,"$25,000-$49,999",South Atlantic,Android Phone / Tablet,209
+0,0,High School or GED,1,0,0,0,1,0,1,97,34,0,1,0,1,1,0,0,1,0,0,0,0,1,0,30-44,Female,"$10,000-$24,999",New England,Android Phone / Tablet,210
+1,0,High School or GED,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,45-60,Female,Prefer not to answer,East North Central,Windows Desktop / Laptop,211
+1,0,Completed Phd,1,0,0,0,1,0,0,0,81,0,1,0,0,0,0,1,1,1,0,0,0,0,1,30-44,Female,"$75,000-$99,999",South Atlantic,MacOS Desktop / Laptop,212
+1,0,Some Masters,1,0,0,0,1,1,0,0,33,0,0,0,0,0,0,0,1,0,0,0,0,0,0,18-29,Female,"$25,000-$49,999",Middle Atlantic,Android Phone / Tablet,213
+1,0,Completed Undergraduate,1,0,0,0,1,0,0,0,25,0,1,0,0,1,0,0,0,0,0,0,0,0,0,30-44,Female,"$10,000-$24,999",East North Central,Android Phone / Tablet,214
+1,1,Some Undergraduate,1,1,42,0,1,0,0,0,41,0,1,0,0,0,1,0,1,1,0,0,0,0,1,30-44,Female,"$25,000-$49,999",New England,Windows Desktop / Laptop,215
+0,0,Some Masters,1,0,0,0,1,0,0,0,20,1,1,0,0,0,0,0,0,0,0,0,0,0,0,> 60,Female,"$25,000-$49,999",West South Central,iOS Phone / Tablet,216
+1,1,Completed Masters,1,0,0,0,1,0,0,0,100,0,1,0,0,0,0,0,0,0,0,0,0,0,1,30-44,Female,"$150,000-$174,999",New England,iOS Phone / Tablet,217
+0,0,Some Undergraduate,1,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,45-60,Female,Prefer not to answer,New England,Windows Desktop / Laptop,218
+1,0,Completed Undergraduate,1,0,0,0,1,0,1,10,21,0,1,0,0,0,0,0,0,0,0,0,0,0,0,45-60,Female,"$25,000-$49,999",West South Central,Windows Desktop / Laptop,219
+1,1,High School or GED,1,1,100,0,1,0,0,0,95,0,1,0,0,0,100,0,1,1,1,1,1,1,0,30-44,Female,"$50,000-$74,999",Mountain,iOS Phone / Tablet,220
+1,1,Some Undergraduate,1,1,14,0,1,0,1,18,14,0,1,0,0,0,1,0,1,0,0,0,1,0,1,18-29,Female,"$10,000-$24,999",East North Central,Android Phone / Tablet,221
+1,0,Completed Undergraduate,1,0,0,0,1,0,0,0,56,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18-29,Female,"$100,000-$124,999",New England,iOS Phone / Tablet,222
+1,0,High School or GED,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,45-60,Female,"$75,000-$99,999",East North Central,Windows Desktop / Laptop,223
+1,0,Completed Undergraduate,1,0,0,0,1,0,0,0,57,0,1,0,0,0,0,0,0,0,0,0,0,0,0,30-44,Female,"$25,000-$49,999",South Atlantic,iOS Phone / Tablet,224
+1,0,Completed Undergraduate,1,0,0,0,1,0,0,0,55,0,0,0,0,0,0,0,0,0,0,0,0,0,0,> 60,Male,"$50,000-$74,999",Middle Atlantic,Windows Desktop / Laptop,225
+1,0,High School or GED,1,0,,0,1,0,0,0,42,0,1,0,0,0,0,0,0,0,0,0,0,0,0,30-44,Female,"$25,000-$49,999",Pacific,iOS Phone / Tablet,226
+0,1,High School or GED,1,0,0,0,1,1,1,5,0,1,1,0,0,0,0,1,1,1,1,1,1,1,1,18-29,Female,"$50,000-$74,999",West South Central,Android Phone / Tablet,227
+0,0,Some highschool,1,0,0,0,1,0,0,0,25,1,0,0,0,0,0,0,1,0,0,0,0,0,0,> 60,Male,"$25,000-$49,999",Mountain,MacOS Desktop / Laptop,228
+1,0,High School or GED,1,0,0,0,1,0,0,0,25,0,1,0,0,0,0,0,0,0,0,0,0,0,0,30-44,Female,"$25,000-$49,999",South Atlantic,Android Phone / Tablet,229
+1,0,Completed Undergraduate,1,0,0,0,1,0,1,1,19,0,1,0,0,0,0,0,0,0,0,0,0,0,0,> 60,Female,"$125,000-$149,999",New England,Android Phone / Tablet,230
+0,1,Completed Undergraduate,1,0,0,0,1,0,1,30,7,1,1,0,0,0,0,0,1,1,0,1,1,0,1,45-60,Female,"$0-$9,999",Middle Atlantic,iOS Phone / Tablet,231
+1,0,Some Phd,1,0,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,30-44,Female,Prefer not to answer,Middle Atlantic,iOS Phone / Tablet,232
+1,1,Completed Masters,1,0,0,0,1,0,0,0,18,0,1,0,0,0,0,0,1,0,1,0,0,0,1,45-60,Female,"$75,000-$99,999",South Atlantic,Android Phone / Tablet,233
+0,0,Some Undergraduate,1,0,,0,1,0,0,0,42,0,1,0,0,0,0,1,1,1,1,1,0,1,1,30-44,Female,"$25,000-$49,999",Middle Atlantic,iOS Phone / Tablet,234
+1,0,Some highschool,0,0,3,0,1,0,1,3,100,1,1,20,0,0,1,0,1,0,0,0,0,0,0,30-44,Female,Prefer not to answer,West North Central,Android Phone / Tablet,235
+0,0,Completed Undergraduate,1,0,0,0,1,0,0,0,100,1,1,0,0,0,0,0,0,0,0,0,0,0,0,> 60,Female,Prefer not to answer,West North Central,Windows Desktop / Laptop,236
+1,1,Some Undergraduate,1,0,0,0,1,0,1,12,33,0,1,0,0,0,0,1,1,1,0,1,1,0,0,30-44,Female,"$25,000-$49,999",East South Central,Windows Desktop / Laptop,237
+0,0,High School or GED,0,0,0,0,1,0,1,100,19,1,1,0,0,0,0,0,1,1,0,0,1,0,0,30-44,Female,"$0-$9,999",Pacific,Android Phone / Tablet,238
+0,0,Completed Masters,1,0,0,0,1,0,0,0,23,0,1,0,0,0,0,0,0,0,0,0,0,0,0,> 60,Male,"$150,000-$174,999",East North Central,MacOS Desktop / Laptop,239
+0,0,High School or GED,1,0,0,0,1,0,0,0,30,1,1,0,0,0,0,0,0,0,0,0,0,0,1,> 60,Female,"$50,000-$74,999",East North Central,Windows Desktop / Laptop,240
+0,0,Completed Undergraduate,1,0,0,0,0,0,0,0,29,1,1,0,0,0,0,0,0,0,0,0,0,0,0,> 60,Female,"$25,000-$49,999",East North Central,Windows Desktop / Laptop,241
+1,1,Completed Masters,1,0,0,0,1,0,0,0,10,0,1,0,0,0,1,1,1,1,0,0,0,0,1,30-44,Female,"$200,000+",West South Central,Windows Desktop / Laptop,242
+1,0,Some Masters,1,0,0,0,1,0,1,5,70,0,1,0,0,0,0,0,0,0,0,0,0,0,0,> 60,Female,"$75,000-$99,999",East North Central,Windows Desktop / Laptop,243
+1,0,Completed Undergraduate,1,0,0,0,1,0,0,0,45,0,1,0,0,0,0,0,0,0,0,0,0,0,0,30-44,Female,"$25,000-$49,999",South Atlantic,iOS Phone / Tablet,244
+0,1,High School or GED,1,0,0,0,0,1,1,6,0,1,1,0,0,0,0,0,1,1,0,1,0,0,0,30-44,Female,"$10,000-$24,999",Mountain,Android Phone / Tablet,245
+1,0,High School or GED,1,0,0,0,1,0,0,0,20,0,1,0,0,0,0,0,0,0,0,0,0,0,1,> 60,Female,"$10,000-$24,999",West South Central,Android Phone / Tablet,246
+0,0,Completed Undergraduate,1,0,0,0,1,0,0,0,20,1,1,0,0,0,0,0,1,0,0,0,0,0,0,45-60,Male,"$50,000-$74,999",East North Central,MacOS Desktop / Laptop,247
+0,1,Completed Masters,1,0,0,1,1,0,0,0,23,1,1,0,0,0,0,0,0,1,0,0,0,0,1,> 60,Female,"$10,000-$24,999",South Atlantic,Windows Desktop / Laptop,248
+1,0,Completed Undergraduate,1,0,0,0,1,0,1,18,40,0,1,0,0,0,0,1,0,1,1,0,0,1,1,30-44,Female,"$25,000-$49,999",South Atlantic,Android Phone / Tablet,249
+1,0,High School or GED,1,0,,0,1,0,0,0,74,0,1,0,0,0,0,0,0,0,0,0,0,0,0,> 60,Female,"$50,000-$74,999",East North Central,iOS Phone / Tablet,250
+0,1,Some highschool,1,1,5,0,0,0,0,0,0,1,0,0,0,0,5,0,0,0,0,0,0,0,0,30-44,Female,"$10,000-$24,999",East North Central,iOS Phone / Tablet,251
+1,0,Completed Masters,1,0,0,0,1,0,0,0,40,0,1,0,0,0,0,0,0,0,0,0,0,0,0,30-44,Male,"$200,000+",East South Central,iOS Phone / Tablet,252
+1,0,Some Undergraduate,1,0,0,0,1,0,0,0,41,0,1,0,0,0,0,0,1,0,0,0,0,0,0,45-60,Female,"$150,000-$174,999",South Atlantic,iOS Phone / Tablet,253
+0,0,Completed Masters,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,> 60,Female,"$200,000+",Middle Atlantic,iOS Phone / Tablet,254
+0,1,Completed Undergraduate,1,0,1,0,1,0,0,0,0,1,1,30,0,0,0,1,1,0,0,0,1,0,1,> 60,Male,"$0-$9,999",West South Central,MacOS Desktop / Laptop,255
+1,0,High School or GED,1,0,0,0,1,1,1,12,31,0,1,0,0,0,0,0,0,0,0,0,0,0,0,18-29,Female,"$25,000-$49,999",Mountain,Windows Desktop / Laptop,256
+1,0,Completed Undergraduate,1,0,0,0,1,0,0,0,100,1,1,0,0,0,0,0,0,0,0,0,0,0,0,> 60,Female,"$150,000-$174,999",East North Central,iOS Phone / Tablet,257
+1,0,Completed Undergraduate,1,0,0,0,1,0,0,0,70,0,1,0,0,0,0,0,0,0,0,0,0,0,0,> 60,Male,"$75,000-$99,999",East North Central,iOS Phone / Tablet,258
+1,0,Some Undergraduate,1,0,0,0,1,0,0,0,6,0,0,83,0,0,0,0,0,0,0,0,0,0,1,45-60,Male,"$75,000-$99,999",South Atlantic,iOS Phone / Tablet,259
+1,0,Some Phd,1,0,0,0,1,0,1,24,100,0,1,0,0,0,0,0,0,0,0,0,0,0,0,45-60,Female,"$100,000-$124,999",South Atlantic,iOS Phone / Tablet,260
+1,0,Completed Undergraduate,1,0,0,0,1,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30-44,Female,"$50,000-$74,999",Middle Atlantic,Windows Desktop / Laptop,261
+0,1,Some Undergraduate,1,0,0,0,1,1,0,0,0,0,1,1,0,0,0,0,1,1,0,0,0,0,0,18-29,Female,"$0-$9,999",East South Central,Windows Desktop / Laptop,262
+0,0,Some Undergraduate,1,0,2,0,1,0,0,2,50,1,1,1,0,0,0,0,0,0,0,0,1,0,0,> 60,Female,"$50,000-$74,999",East North Central,Windows Desktop / Laptop,263
+0,0,High School or GED,0,0,,0,1,0,1,100,46,1,1,0,0,0,0,0,1,0,0,0,0,0,1,30-44,Female,"$25,000-$49,999",Pacific,Android Phone / Tablet,264
+0,1,Completed Undergraduate,1,0,0,0,1,0,1,24,50,1,0,0,0,0,0,0,1,1,0,0,1,0,0,45-60,Female,"$50,000-$74,999",West South Central,iOS Phone / Tablet,265
+0,0,Completed Undergraduate,1,1,,0,1,0,0,1,10,1,1,10,1,1,69,1,1,1,1,1,1,1,1,30-44,Female,"$25,000-$49,999",Pacific,Android Phone / Tablet,266
+1,1,Some Undergraduate,1,0,0,0,1,1,0,0,11,0,1,0,0,0,0,1,1,1,1,1,0,1,1,18-29,Female,Prefer not to answer,Mountain,MacOS Desktop / Laptop,267
+1,0,Completed Undergraduate,1,0,0,0,1,0,0,0,93,0,1,0,0,0,0,0,0,0,0,0,0,0,0,30-44,Female,"$100,000-$124,999",Pacific,Windows Desktop / Laptop,268
+0,0,Completed Undergraduate,1,0,0,1,1,0,0,0,9,1,1,0,0,0,0,0,0,0,0,0,0,0,0,> 60,Female,"$10,000-$24,999",East South Central,Windows Desktop / Laptop,269
+1,1,Completed Undergraduate,1,1,28,0,1,0,1,59,16,0,1,0,0,0,1,1,1,1,1,1,1,1,1,18-29,Female,"$125,000-$149,999",South Atlantic,Android Phone / Tablet,270
+1,0,Completed Undergraduate,0,0,,0,1,0,1,2,30,0,1,0,0,0,0,1,0,0,0,0,0,0,0,30-44,Female,"$10,000-$24,999",South Atlantic,Windows Desktop / Laptop,271
+1,0,Some Undergraduate,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45-60,Female,"$25,000-$49,999",South Atlantic,Windows Desktop / Laptop,272
+1,0,Some Undergraduate,0,0,0,0,1,1,0,0,55,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18-29,Female,"$50,000-$74,999",Middle Atlantic,iOS Phone / Tablet,273
+1,0,Completed Undergraduate,1,0,0,0,1,0,0,0,54,1,1,0,0,0,0,0,0,0,0,0,0,0,0,> 60,Male,"$100,000-$124,999",New England,Windows Desktop / Laptop,274
+0,1,Some Undergraduate,0,0,0,0,1,0,1,24,49,1,1,0,0,0,0,1,1,1,1,1,1,1,1,30-44,Female,"$50,000-$74,999",East North Central,Android Phone / Tablet,275
+1,0,High School or GED,0,0,0,0,1,0,0,0,35,0,1,0,0,0,0,0,1,0,0,0,1,0,0,30-44,Female,Prefer not to answer,Middle Atlantic,MacOS Desktop / Laptop,276
+1,1,High School or GED,0,0,0,0,1,1,1,30,17,0,1,0,0,0,0,0,1,1,1,1,0,1,0,30-44,Female,"$10,000-$24,999",West South Central,Android Phone / Tablet,277
+1,1,Completed Masters,1,1,1,1,1,1,1,20,25,0,1,12,0,0,1,1,1,1,1,0,0,1,1,30-44,Male,"$10,000-$24,999",Pacific,Windows Desktop / Laptop,278
+1,0,Some Undergraduate,1,0,0,0,1,0,0,0,42,0,1,0,0,0,0,0,0,0,0,0,0,0,0,18-29,Male,"$50,000-$74,999",Pacific,iOS Phone / Tablet,279
+1,0,Completed Masters,1,0,0,0,1,0,0,1,82,0,1,0,0,0,1,0,1,0,0,0,0,0,0,30-44,Female,"$75,000-$99,999",Middle Atlantic,Windows Desktop / Laptop,280
+1,0,High School or GED,1,0,0,0,1,0,0,0,23,0,0,0,0,0,0,0,1,1,0,1,1,0,1,18-29,Female,"$10,000-$24,999",West North Central,iOS Phone / Tablet,281
+0,0,Some highschool,1,0,,1,1,0,0,22,25,1,1,14,0,0,0,0,1,1,0,1,1,0,1,45-60,Female,"$50,000-$74,999",East North Central,Windows Desktop / Laptop,282
+0,1,Completed Undergraduate,1,0,,0,1,0,1,28,0,1,1,0,1,0,0,1,1,1,1,1,1,1,1,30-44,Female,"$25,000-$49,999",East North Central,Android Phone / Tablet,283
+1,1,Some highschool,1,1,15,0,1,0,0,3,54,0,1,0,0,0,3,0,1,0,1,1,0,1,0,30-44,Female,"$50,000-$74,999",Middle Atlantic,Android Phone / Tablet,284
+1,0,Completed Masters,1,0,0,0,1,0,0,0,75,0,1,0,0,0,0,0,0,0,0,0,0,0,0,45-60,Female,Prefer not to answer,Middle Atlantic,Android Phone / Tablet,285
+1,1,Some Undergraduate,1,0,0,0,1,0,1,100,36,0,1,0,0,0,0,1,0,0,0,0,0,0,1,> 60,Female,"$25,000-$49,999",Middle Atlantic,iOS Phone / Tablet,286
+0,1,High School or GED,1,0,0,0,1,0,1,30,19,1,1,0,0,0,0,1,1,1,1,1,1,0,1,30-44,Female,"$10,000-$24,999",West South Central,Android Phone / Tablet,287
+1,1,Some Undergraduate,0,0,0,0,1,0,0,0,30,0,1,0,0,0,0,0,1,1,0,0,0,0,1,30-44,Female,"$25,000-$49,999",Pacific,iOS Phone / Tablet,288
+1,1,Completed Undergraduate,0,1,10,0,1,0,0,0,50,0,1,0,0,0,1,0,1,1,0,0,0,0,0,30-44,Female,"$25,000-$49,999",Middle Atlantic,Android Phone / Tablet,289
+0,0,High School or GED,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,18-29,Female,"$0-$9,999",South Atlantic,Android Phone / Tablet,290
+1,0,Completed Phd,1,0,0,0,1,0,0,0,83,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45-60,Female,"$100,000-$124,999",South Atlantic,iOS Phone / Tablet,291
+1,0,Some highschool,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,45-60,Female,"$10,000-$24,999",East North Central,Android Phone / Tablet,292
+0,0,Some Undergraduate,1,0,,0,1,0,1,9,55,1,1,0,0,0,0,0,0,0,0,0,0,0,0,18-29,Female,"$50,000-$74,999",East North Central,iOS Phone / Tablet,293
+0,1,Some Undergraduate,1,0,0,1,1,0,1,52,14,1,1,14,1,0,0,1,1,1,1,0,1,1,1,30-44,Female,"$10,000-$24,999",East South Central,Android Phone / Tablet,294
+1,1,Completed Undergraduate,1,0,0,0,1,0,0,0,18,0,1,0,0,0,0,0,1,1,1,0,1,1,1,30-44,Female,"$25,000-$49,999",East North Central,Windows Desktop / Laptop,295
+1,0,Completed Undergraduate,1,0,0,0,1,0,1,2,51,0,1,0,0,0,0,0,0,0,0,0,0,0,1,45-60,Female,"$50,000-$74,999",Middle Atlantic,Android Phone / Tablet,296
+0,0,High School or GED,1,0,0,0,1,1,0,0,50,1,0,50,1,0,0,1,1,1,0,0,0,0,0,18-29,Female,"$50,000-$74,999",East South Central,Windows Desktop / Laptop,297
+1,1,Some Undergraduate,1,0,,0,1,0,1,36,20,0,1,0,0,0,0,0,1,1,0,1,1,0,1,30-44,Female,Prefer not to answer,West South Central,Android Phone / Tablet,298
+0,0,Some Undergraduate,1,0,0,0,1,0,0,0,31,1,1,1,0,0,0,0,0,0,0,0,0,0,1,> 60,Female,Prefer not to answer,Mountain,Android Phone / Tablet,299
+1,0,Completed Undergraduate,1,0,0,0,1,0,0,0,50,0,1,0,0,0,0,0,0,0,0,0,0,0,1,18-29,Female,"$50,000-$74,999",East South Central,Android Phone / Tablet,300
+1,0,High School or GED,1,0,0,0,1,0,0,0,44,1,0,44,0,0,0,0,0,0,0,0,0,0,0,45-60,Male,"$50,000-$74,999",East North Central,Windows Desktop / Laptop,301
+0,0,Some highschool,0,0,0,0,0,1,1,28,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,30-44,Female,"$50,000-$74,999",Pacific,Android Phone / Tablet,302
+0,0,Completed Masters,1,0,0,0,1,0,0,0,38,1,1,0,0,0,0,0,0,0,0,0,0,0,0,> 60,Female,"$75,000-$99,999",Pacific,MacOS Desktop / Laptop,303
+1,1,Some Undergraduate,1,0,0,0,1,1,0,0,2,0,1,0,0,0,0,1,1,1,1,1,1,1,1,18-29,Female,"$0-$9,999",West North Central,Windows Desktop / Laptop,304
+1,0,Completed Undergraduate,1,0,0,0,1,1,1,24,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18-29,Female,"$10,000-$24,999",Pacific,iOS Phone / Tablet,305
+0,1,High School or GED,1,1,27,1,1,0,1,73,12,1,1,13,1,0,4,1,0,1,0,0,1,0,1,45-60,Female,"$0-$9,999",East North Central,Android Phone / Tablet,306
+1,0,Some Undergraduate,0,0,0,0,1,0,1,5,47,0,1,0,0,0,0,0,0,0,0,0,0,0,0,18-29,Female,"$50,000-$74,999",West South Central,Android Phone / Tablet,307
+1,0,Some Undergraduate,1,0,0,0,1,0,0,0,35,0,1,0,0,0,0,0,0,0,0,0,0,0,0,18-29,Female,"$25,000-$49,999",Mountain,Android Phone / Tablet,308
+1,0,High School or GED,1,0,0,0,1,0,0,0,23,0,1,0,0,0,0,0,0,0,0,0,0,0,1,30-44,Female,"$10,000-$24,999",Pacific,Windows Desktop / Laptop,309
+0,1,Some Undergraduate,0,1,8,1,1,0,1,13,17,1,1,4,1,0,1,0,1,1,1,1,1,0,1,30-44,Female,"$0-$9,999",West North Central,Android Phone / Tablet,310
+0,1,Completed Undergraduate,1,1,43,1,1,0,0,0,12,1,1,12,1,1,6,0,0,0,0,0,0,0,1,> 60,Female,"$10,000-$24,999",Middle Atlantic,Windows Desktop / Laptop,311
+0,0,High School or GED,1,0,0,0,1,0,1,66,0,1,1,2,0,0,0,0,1,0,0,0,1,0,0,30-44,Female,"$75,000-$99,999",Middle Atlantic,Android Phone / Tablet,312
+1,0,Completed Undergraduate,1,0,0,0,1,0,0,0,100,0,1,0,0,0,0,0,0,1,0,0,0,0,0,30-44,Female,"$100,000-$124,999",East South Central,iOS Phone / Tablet,313
+1,0,Some Undergraduate,1,0,0,0,1,0,0,0,25,0,1,0,0,0,0,0,0,1,1,0,0,0,0,45-60,Male,"$75,000-$99,999",Mountain,Windows Desktop / Laptop,314
+1,1,Completed Undergraduate,0,0,,0,1,0,0,0,46,0,1,0,0,0,0,0,1,1,0,0,0,0,0,30-44,Female,"$25,000-$49,999",Pacific,iOS Phone / Tablet,315
+1,0,Completed Undergraduate,1,0,0,0,1,0,0,0,25,0,1,0,0,0,0,0,0,0,0,0,0,0,1,45-60,Male,"$25,000-$49,999",South Atlantic,Windows Desktop / Laptop,316
+1,0,Completed Undergraduate,1,0,0,0,1,0,0,0,35,0,1,0,0,0,0,0,1,1,0,0,0,0,0,30-44,Female,"$25,000-$49,999",East North Central,iOS Phone / Tablet,317
+1,1,Some Undergraduate,1,0,0,0,1,0,1,7,24,1,0,0,0,0,1,1,1,1,1,0,0,0,1,18-29,Female,"$0-$9,999",West South Central,Windows Desktop / Laptop,318
+1,0,Completed Undergraduate,1,0,0,0,1,0,0,0,54,0,1,0,0,0,0,0,0,0,0,0,0,0,1,45-60,Female,"$50,000-$74,999",Middle Atlantic,iOS Phone / Tablet,319
+1,0,Some highschool,0,0,0,0,1,1,0,0,36,0,1,25,0,0,0,0,0,0,0,1,0,0,1,30-44,Female,"$50,000-$74,999",South Atlantic,iOS Phone / Tablet,320
+1,0,Completed Masters,1,0,0,0,1,0,0,0,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,> 60,Male,"$175,000-$199,999",East North Central,Windows Desktop / Laptop,321
+0,1,High School or GED,1,1,1,0,1,0,0,0,33,1,1,6,0,0,2,0,1,1,0,1,1,0,1,18-29,Female,"$25,000-$49,999",West North Central,Android Phone / Tablet,322
+0,0,High School or GED,0,0,0,0,1,1,1,24,18,1,1,0,1,0,0,0,0,0,0,0,0,0,0,18-29,Female,Prefer not to answer,West North Central,Android Phone / Tablet,323
+1,1,Completed Undergraduate,1,0,0,0,1,1,1,14,30,0,1,0,0,0,0,0,1,1,0,1,1,0,0,18-29,Female,"$25,000-$49,999",Mountain,Windows Desktop / Laptop,324
+1,1,Completed Masters,1,0,0,0,1,0,1,15,50,0,1,0,0,0,0,0,1,1,0,0,0,0,0,18-29,Female,"$125,000-$149,999",Middle Atlantic,iOS Phone / Tablet,325
+1,0,Some Undergraduate,1,0,0,0,1,0,1,45,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30-44,Female,"$100,000-$124,999",Middle Atlantic,iOS Phone / Tablet,326
+1,0,Completed Undergraduate,1,0,0,0,1,0,0,0,35,0,1,0,0,0,0,0,0,0,0,0,0,0,0,45-60,Female,"$75,000-$99,999",East North Central,Android Phone / Tablet,327
+1,0,Some Undergraduate,1,0,0,0,1,0,1,36,42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18-29,Female,"$25,000-$49,999",Pacific,iOS Phone / Tablet,328
+0,1,Completed Undergraduate,0,0,0,0,1,0,0,0,40,1,1,0,0,0,0,0,1,0,0,0,0,0,0,18-29,Female,"$50,000-$74,999",Mountain,iOS Phone / Tablet,329
+0,0,High School or GED,1,0,,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,45-60,Female,Prefer not to answer,Mountain,Android Phone / Tablet,330
+1,0,Some Undergraduate,1,0,0,0,1,1,0,0,62,0,1,0,0,0,0,0,0,0,0,0,0,0,0,18-29,Male,"$50,000-$74,999",Pacific,Windows Desktop / Laptop,331
+1,0,Some Undergraduate,1,0,0,0,1,0,0,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,> 60,Female,"$10,000-$24,999",West North Central,Windows Desktop / Laptop,332
+0,1,Some Undergraduate,0,1,1,1,1,1,1,30,12,1,1,12,1,0,3,1,1,1,1,1,1,1,1,18-29,Female,"$0-$9,999",West South Central,Android Phone / Tablet,333
+1,1,Some Undergraduate,1,0,0,1,1,0,0,0,25,0,1,0,0,0,0,,1,1,,,,,,18-29,Female,"$10,000-$24,999",Pacific,Android Phone / Tablet,334
