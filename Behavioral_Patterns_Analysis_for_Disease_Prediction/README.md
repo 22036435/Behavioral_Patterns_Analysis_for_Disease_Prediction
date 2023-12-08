@@ -1,3 +1,5 @@
+VERY IMPORTANT NOTE: since the file size of bert_classifier.pth, couldn't upload on gitHub. I can either send it through email or you can run the related cell. 
+Thank You :)
 Behavioral Patterns Analysis for Disease Prediction in Psychology
 
     I. Introduction
